@@ -1,11 +1,11 @@
 
-cod=int(input("Informe o codígo do produto 1 "))
-uni=int(input("Informe o numero de unidades do produto 1"))
-val=float(input("Valor da unidade produto 1 "))
+cod=int(input())
+uni=int(input())
+val=float(input())
 
-cod2=int(input("Informe o codígo do produto 2 "))
-uni2=int(input("Informe o numero de unidades do produto 2"))
-val2=float(input("Valor da unidade produto 2 "))
+cod2=int(input())
+uni2=int(input())
+val2=float(input())
 
 
 total=(val*uni+val2*uni2)

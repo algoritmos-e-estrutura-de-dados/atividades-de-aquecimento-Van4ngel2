@@ -1,7 +1,7 @@
 
-A = float(input(" "))
-B = float(input(" "))
-C = float(input(" "))
+A = float(input())
+B = float(input())
+C = float(input())
 
 triangulo = (A*C)/2
 circulo = (3.14159 *C**2)

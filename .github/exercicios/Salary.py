@@ -1,6 +1,7 @@
-Num=int(input("Informe seu núemro de funcionario"))
-Hr=int(input("Numero de horas trabalhadas"))
-Sal=float(input("Valor recebido por horas"))
+Num=int(input())
+Hr=int(input())
+Sal=float(input())
 
 salario=(Hr*Sal)
-print(f"NUMERO = {Num} SALARIO = R$ {salario:.2f}")
+print(f"NUMBER = {Num} ")
+print (f"SALARY = U$ {salario:.2f}")

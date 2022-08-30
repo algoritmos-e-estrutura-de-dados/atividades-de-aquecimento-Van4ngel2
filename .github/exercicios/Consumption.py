@@ -1,5 +1,5 @@
-X = int(input(" Distancia percorrida "))
-Y = float(input("Total de combustivel "))
+X = int(input())
+Y = float(input())
 
 
 media=(X/Y)

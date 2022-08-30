@@ -1,7 +1,7 @@
 
-N=str(input("Informe o nome do vendedor "))
-S=float(input("Informe o sálario fixo "))
-V=float(input("Valor Total de vendas feitas "))
+N=str(input())
+S=float(input())
+V=float(input())
 
 total=(V*15/100)+(S)
 print(f"TOTAL = R$ {total:.2f}")
